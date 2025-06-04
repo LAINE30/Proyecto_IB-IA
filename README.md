@@ -2,11 +2,11 @@
 
 ## 📅 Fecha de entrega: 4 de junio de 2025  
 ## 👥 Integrantes del grupo:
-- Jonathan – Redacción del informe
-- Wellington – Codificación de proposiciones lógicas
-- Josue – Resolución del rompecabezas
-- Liam – Análisis de resultados y conclusiones
-- Mateo – Presentación PowerPoint y demostración
+- Jonathan 
+- Wellington 
+- Josue 
+- Liam 
+- Mateo 
 
 ---
 
